@@ -1,0 +1,16 @@
+/* src/app/components/footer/footer.component.css */
+.list-inline-item {
+    margin: 0 1rem;
+  }
+  
+  .list-inline-item a:hover {
+    text-decoration: underline; /* Add underline on hover for better interaction */
+  }
+  
+  .bi {
+    font-size: 1.2rem; /* Slightly larger social media icons */
+  }
+  
+  .bi:hover {
+    opacity: 0.8; /* Subtle opacity change on hover */
+  }

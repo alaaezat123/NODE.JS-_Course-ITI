@@ -1,0 +1,4 @@
+node index.js delete 2
+node index.js edit 1
+node index.js list
+node index.js create
